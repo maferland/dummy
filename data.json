@@ -1,0 +1,50 @@
+[
+    {
+        "movieTitle": "Rings",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/biN2sqExViEh8IYSJrXlNKjpjxx.jpg"
+    },
+    {
+        "movieTitle": "Power Rangers",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/eQkaPwMpJARFoPvbbNz2Z0Kye4O.jpg"
+    },
+    {
+        "movieTitle": "X-Men: Days of Future Past",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/5LBcSLHAtEIIgvNkA2dPmYH5wR7.jpg"
+    },
+    {
+        "movieTitle": "Guardians of the Galaxy Vol. 2",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/8sFWWIolWPm2FQLNt9cSKpNZJcz.jpg"
+    },
+    {
+        "movieTitle": "Harry Potter and the Deathly Hallows: Part 2",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/6n0DAcyjTHS6888mt8U9ZsLy9nR.jpg"
+    },
+    {
+        "movieTitle": "Warcraft",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg"
+    },
+    {
+        "movieTitle": "Transformers: The Last Knight",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/fQ0H61b4Lc9ld0JzIo12dkg2GZb.jpg"
+    },
+    {
+        "movieTitle": "The Great Wall",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/rym1ecQJVj1NhZnigRePtiusorF.jpg"
+    },
+    {
+        "movieTitle": "The Hunger Games: Mockingjay - Part 2",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg"
+    },
+    {
+        "movieTitle": "Boyka: Undisputed IV",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/cGc5jUgAvcmA9kBCvtNDvlT4LpR.jpg"
+    },
+    {
+        "movieTitle": "Harry Potter and the Philosopher's Stone",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/gZkNOS6E58wqR95WYzHaVvQnlVR.jpg"
+    },
+    {
+        "movieTitle": "John Wick: Chapter 2",
+        "imageUrl": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/4TBLjAhQe1zJfR3zdHMWTrwbdLd.jpg"
+    }
+]
