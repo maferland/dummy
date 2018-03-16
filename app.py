@@ -6,7 +6,7 @@ app = Flask(__name__)
 def hello():
     with open("data.json") as f:
         content = json.load(f)
-        return jsonify(movies=content)
+        return jsonify(data=content)
 
 if __name__ == "__main__":
     app.run()
